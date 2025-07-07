@@ -1,2 +1,3 @@
-# sugarlump-delicious-delights
-sugarlump AR Delicious Delights
+sugarlump Delicious Delights
+Augmented Reality
+
